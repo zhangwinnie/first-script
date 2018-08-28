@@ -1,0 +1,13 @@
+{
+    "name": "zhangwinnie/first-script",
+    "description": "first script",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangwenning",
+            "email": "caroline_zwn@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
